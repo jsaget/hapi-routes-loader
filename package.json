@@ -1,0 +1,19 @@
+{
+  "name": "hapi-routes-loader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.mjs",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsaget/hapi-routes-loader.git"
+  },
+  "author": "jsaget",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsaget/hapi-routes-loader/issues"
+  },
+  "homepage": "https://github.com/jsaget/hapi-routes-loader#readme"
+}
